@@ -2,7 +2,9 @@
 
 ## Get-WindowsAutoPilotInfo.ps1
 
-Install the script using the following command:
+_Disclaimer_: The PowerShell script _Get-WindowsAutoPilotInfo.ps1_ is not mine. It was made by Microsoft, and can be installed using the instructions below.
+
+Open PowerShell as administrator and install the script using the following command:
 
 `Install-Script -Name Get-WindowsAutopilotInfo`
 
